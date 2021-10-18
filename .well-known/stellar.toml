@@ -17,7 +17,7 @@ ORG_OFFICIAL_EMAIL="manangoscoin@gmail.com"
 [[CURRENCIES]]
 code="Manangos"
 issuer="GCAD56MX3VL4YE3KIXPOWOMHTQYJOPYP7UQUQ2CAJQV4NYZ3566CAGKM"
-display_decimals=8
+display_decimals=7
 name="Manangos"
 desc="The fork of the fork of another fork"
 conditions="There will be only 420690000000 Manangos tokens in existence."
