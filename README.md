@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+We are Manangos Coin.
+
+The newest in stone-fruit infused Cryptocurrencies.
+Now you might be asking yourself, do you we need another meme-coin?
+And my response is, well, are your other cryptos rich in Folate?
+
 <!--
 **ManangosCoin/ManangosCoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

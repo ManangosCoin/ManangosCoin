@@ -33,7 +33,7 @@ a:link, a:visited
 	margin-right: 20px;
 	margin-bottom: 20px;
 	float: left;
-	background-image: url(../images/me.png);
+	background-image: url(../images/Manangos highres Favicon.png);
 }
 
 @font-face
@@ -188,6 +188,21 @@ header
 	background-image: url(../images/icon-tableau.png);
 }
 
+.icon-twitter
+{
+	background-image: url(../images/icon-twitter.png);
+}
+
+.icon-discord
+{
+	background-image: url(../images/icon-discord.png);
+}
+
+.icon-telegram
+{
+	background-image: url(../images/icon-telegram.png);
+}
+
 img
 {
 	border-style: none;
@@ -226,18 +241,6 @@ img
 	height: 600px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#portfolio-container-1
-{
-}
-
-#portfolio-container-2
-{
-}
-
-#portfolio-container-3
-{
 }
 
 .portfolio-text-body
@@ -317,16 +320,6 @@ img
 	font-weight: bold;
 	text-decoration: none;
 	color: #ffffff;
-}
-
-.tutorial-banner
-{
-	position: absolute;
-	right: 0px;
-	top: 0px;
-	width: 114px;
-	height: 114px;
-	background-image: url(../images/tutorial-banner.png);
 }
 
 @media (max-width:2000px ) {
