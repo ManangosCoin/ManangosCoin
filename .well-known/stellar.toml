@@ -8,7 +8,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Manangos"
-ORG_URL="http://manangos.tk"
+ORG_URL="https://manangos.tk"
 ORG_LOGO="http://manangos.tk/images/Logo.png"
 ORG_DESCRIPTION="The fork of the fork of another fork."
 ORG_TWITTER="@ManangosCoin"
