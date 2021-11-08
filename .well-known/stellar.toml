@@ -17,9 +17,19 @@ ORG_OFFICIAL_EMAIL="manangoscoin@gmail.com"
 [[CURRENCIES]]
 code="Manangos"
 issuer="GCAD56MX3VL4YE3KIXPOWOMHTQYJOPYP7UQUQ2CAJQV4NYZ3566CAGKM"
-display_decimals=7
+display_decimals=0
 name="Manangos"
 desc="The fork of the fork of another fork"
-conditions="There will be only 420690000000 Manangos tokens in existence."
-image="http://manangos.tk/images/Logo.png"
+conditions="There will be only 420,690,000,000 Manangos tokens in existence."
+image="http://manangos.tk/logos/Manangos_Logo.png"
 fixed_number=420690000000
+
+[[CURRENCIES]]
+code="Mango"
+issuer="GCAD56MX3VL4YE3KIXPOWOMHTQYJOPYP7UQUQ2CAJQV4NYZ3566CAGKM"
+display_decimals=0
+name="Mango"
+desc="Stellar Mango Tokens!"
+conditions="There will be only 55,900,000 Mango tokens in existence."
+image="http://manangos.tk/logos/Mango_Logo.png"
+fixed_number=55900000
