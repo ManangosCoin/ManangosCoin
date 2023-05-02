@@ -8,8 +8,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Manangos"
-ORG_URL="https://manangos.tk"
-ORG_LOGO="http://manangos.tk/logos/Manangos_Logo.png"
+ORG_URL="https://manangoscoin.github.io/"
+ORG_LOGO="https://manangoscoin.github.io/logos/Manangos_Logo.png"
 ORG_DESCRIPTION="The fork of the fork of another fork."
 ORG_TWITTER="@ManangosCoin"
 ORG_OFFICIAL_EMAIL="manangoscoin@gmail.com"
@@ -21,7 +21,7 @@ display_decimals=0
 name="Manangos"
 desc="The fork of the fork of another fork"
 conditions="There will be only 420,690,000,000 Manangos tokens in existence."
-image="http://manangos.tk/logos/Manangos_Logo.png"
+image="https://manangoscoin.github.io/logos/Manangos_Logo.png"
 fixed_number=420690000000
 
 [[CURRENCIES]]
@@ -31,5 +31,5 @@ display_decimals=0
 name="Mango Token"
 desc="Stellar Mango Tokens!"
 conditions="There will be only 55,900,000 Mango tokens in existence."
-image="http://manangos.tk/logos/Mango_Logo.png"
+image="https://manangoscoin.github.io/logos/Mango_Logo.png"
 fixed_number=55900000
